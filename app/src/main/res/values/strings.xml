@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Git Repo Search</string>
+    <string name="example_string">Enter language like Java, php etc.</string>
+    <string name="please_wait">Please wait</string>
+    <string name="name">Name</string>
+    <string name="descripton">Description</string>
+    <string name="newest_issue">Newest Issue</string>
+    <string name="top_contributor">Top Contributor</string>
+    <string name="repository_search">Repository Search</string>
+    <string name="repository_detail">Repository Detail</string>
+    <string name="no_latest_issue">No Latest issue found</string>
+    <string name="no_contributor">No contributor found</string>
+    <string name="enter_language">Please enter language</string>
+    <string name="no_internet">Not connected to internet</string>
+    <string name="no_result_try_again">No Result Found, Please try again</string>
+</resources>
